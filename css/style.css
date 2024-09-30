@@ -38,3 +38,29 @@ header img{
     font-size: 11px;
     margin-top: 0;
 }
+
+#Unordered-list-margin{
+    padding-left: 15px;
+}
+
+.blue-background{
+    background-color: #4DA1FF;
+}
+
+.border-collapse{
+    border-collapse: collapse;
+}
+
+th, td{
+    width: 500px;
+    text-align: left;
+    font-size: 11px;
+}
+
+th{
+    color: white;
+}
+
+.lightblue{
+    background-color: #B2E6F2;
+}

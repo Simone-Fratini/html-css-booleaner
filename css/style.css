@@ -64,3 +64,16 @@ th{
 .lightblue{
     background-color: #B2E6F2;
 }
+
+.highlight{
+    background-color: yellow;
+}
+
+#consigliati{
+    font-size: 12px;
+    color: grey;
+}
+
+.immagini-consigliate div img{
+    width: 200px;
+}

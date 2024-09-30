@@ -8,6 +8,7 @@ header{
 
 body{
     font-size: 15px;
+    font-family: "Roboto", sans-serif;;
 }
 
 header img{
@@ -74,6 +75,25 @@ th{
     color: grey;
 }
 
-.immagini-consigliate div img{
+#immagini-consigliate div img{
     width: 200px;
+}
+
+#first-bottom-image{
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    margin-left: 0;
+}
+
+#second-bottom-image{
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    margin-left: 0;
+}
+
+#immagini-consigliate div p{
+    color: white;
+    font-size: 20px;
 }

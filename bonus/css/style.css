@@ -1,10 +1,11 @@
 body{
     margin-left: 100px;
     margin-right: 100px;
+    font-family: 'Roboto', sans-serif;
 }
 
 *{
-    margin:auto
+    margin-left: auto;
 }
 
 header{
@@ -84,6 +85,27 @@ th{
     margin-top: 20px;
 }
 
-.immagini-consigliate div img{
+#immagini-consigliate div img{
     width: 200px;
+}
+
+#first-bottom-image{
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    margin-left: 0;
+    margin-top: 5px;
+}
+
+#second-bottom-image{
+    margin-top: 5px;
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    margin-left: 0;
+}
+
+#immagini-consigliate div p{
+    color: white;
+    font-size: 20px;
 }
